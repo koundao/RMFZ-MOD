@@ -55,7 +55,7 @@ pip3 install arknights-mower
 
 也可以在 [Releases](https://github.com/Konano/arknights-mower/releases) 下载 Windows 可执行文件版本。
 
-## 运行须知
+## 运行须知道
 
 运行脚本需要安装 ADB 并与安卓模拟器进行连接。
 
