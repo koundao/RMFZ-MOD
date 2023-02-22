@@ -294,12 +294,8 @@ Solver().base(arrange=plan)
 
 ## 遇到报错？想要更多功能？
 
-如果你在使用过程中遇到问题，欢迎通过提交 Issue 的方式报错或者提问。报告 Issue 时建议附上调试信息以便定位问题。
 
-也欢迎加入交流群讨论：
 
-- [Telegram Group](https://t.me/ark_mover)
-- [QQ Group](https://jq.qq.com/?_wv=1027&k=4gWboTVI): 239200680
 
 ## Star History
 
